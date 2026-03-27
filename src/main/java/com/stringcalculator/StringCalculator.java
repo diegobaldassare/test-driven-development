@@ -1,4 +1,4 @@
-package com.tp2.stringcalculator;
+package com.stringcalculator;
 
 public class StringCalculator {
     

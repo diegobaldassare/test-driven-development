@@ -1,4 +1,4 @@
-package com.tp2.password;
+package com.password;
 
 public class PasswordValidator {
     

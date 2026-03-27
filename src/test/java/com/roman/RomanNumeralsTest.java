@@ -1,4 +1,4 @@
-package com.tp2.roman;
+package com.roman;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;

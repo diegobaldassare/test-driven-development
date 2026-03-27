@@ -1,4 +1,4 @@
-package com.tp2.password;
+package com.password;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;

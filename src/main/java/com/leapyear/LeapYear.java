@@ -1,4 +1,4 @@
-package com.tp2.leapyear;
+package com.leapyear;
 
 
 public class LeapYear {

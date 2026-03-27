@@ -1,4 +1,4 @@
-package com.tp2.leapyear;
+package com.leapyear;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
