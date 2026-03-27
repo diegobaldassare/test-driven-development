@@ -1,6 +1,4 @@
-# programacion-2-tp-2-tdd
-
-Ejercicios de Test-Driven Development (TDD)
+# Prog 2 - Test Driven Development (TDD)
 
 ## 1. Leap Year
 
